@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "zed",
+    "slug": "zed",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "zed"
+}
